@@ -1,0 +1,51 @@
+body{
+    font-size: 0;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+h1{
+     
+     background-color: rgba(194, 43, 9, 0.883);
+    text-align: center;
+    font-size: 100px;
+    color: rgb(223, 167, 13);
+    padding: 100px;
+    margin: 0 auto;
+    font-weight: 900;
+    
+}
+div{
+    font-size: 16px;
+}
+h2{
+    margin: 0;
+    padding: 5px;
+}
+
+div.testo{
+    border-top: 3px solid red;
+    border-bottom: 3px solid red;
+    background-color: orange;
+    
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+.card-container{
+    width: calc(25% - 20px);
+    border: 3px solid orange;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.sopranomi{
+    padding: 10px;
+    background-color: darkorange;
+    font-size: xx-large;
+    width: 300px;
+    text-align: center;
+}

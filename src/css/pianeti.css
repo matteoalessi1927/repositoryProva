@@ -1,0 +1,100 @@
+h1{
+    background-color: rgb(2, 5, 199);
+    text-align: center;
+    padding: 70px;
+    border: 4px solid yellow;
+    color: rgb(255, 217, 0);
+    font-size: 70;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+*{
+    box-sizing: border-box;
+}
+
+body{
+   /* font-size: 0;*/
+    background-color: mediumspringgreen;
+    margin: 0;
+    
+}
+
+div{
+    font-size: 16px;
+}
+
+p{
+    font-size: 25;
+    color: #777;
+    font-variant: small-caps;
+    margin-top: 0 auto;
+    text-align: center;
+
+}
+span{
+    font-size: 30;
+    background-color: rgb(242, 161, 10);
+    border-style: groove;
+    border-color: rgb(255, 217, 0);
+    color: rgb(90, 5, 247);
+    display: inline-block;
+    border-width: 5px;
+    margin: 20px;
+}
+
+ul{
+    font-size: 20;
+    list-style-image: url(../../assets/img/icons8-sistema-solare-28.png);
+    background-color:rgb(2, 5, 199) ;
+    width: 20%;
+    color:rgb(242, 161, 10) ;
+}
+.diocaro{
+    font-size: 0;
+    margin: 20px 0 0;
+}
+.diritti{
+    background-color: gold;
+   text-align: left;
+   padding:40;
+    
+}
+.card-container{
+        border-style: outset;
+        border-color:rgb(242, 161, 10);
+        padding: 10px;
+        text-align: center;
+        width: 30%;
+        display: inline-block;
+       background-color:rgb(2, 5, 199) ;
+       margin: 10px ;
+       color: aliceblue;
+       border-width: 10;
+       font-size: 16;
+       margin-top: 0;
+
+    
+}
+
+.nome-pianeta{
+    background-color: rgb(255, 217, 0);
+    padding: 5px;
+    border: 3px solid rgb(132, 5, 251);
+    color: rgb(2, 5, 199);
+    font-size: 16px;
+}
+
+.footer{
+    border: 3px solid rgb(242, 161, 10);
+    margin-top: 10px;
+}
+
+.pianeta{
+    font-size: 19;
+    color: white;
+    font-variant: small-caps;
+    margin-top: 0 auto;
+    text-align: center;
+
+
